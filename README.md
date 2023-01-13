@@ -1,4 +1,4 @@
 
-![isavatars's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![isavatar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![isavtars's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![isavtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
