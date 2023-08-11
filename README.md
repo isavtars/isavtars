@@ -25,8 +25,6 @@ I am  MERN STACK Developer :muscle:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bibek-bohora-83694227a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@anishap29213390" height="30" width="40" />
- 
-
 </a>
 <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn Profile" height="30" width="40" />
