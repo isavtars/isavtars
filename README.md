@@ -34,7 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Header](./github-header-image.png)
-<h1 align="center">Hi :wave:, I'm Bigyan Thanait</h1>
 <h3 align="center">A passionate flutter developer from Nepal</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgyn&label=Profile%20views&color=0e75b6&style=flat" alt="bgyn" /> </p>
 <h3 align="left">Connect with me:</h3>
